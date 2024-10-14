@@ -6,7 +6,7 @@ module.exports = {
     extend: {},
     fontFamily: {
       body: ["Rubik", "inter"],
-    }
+    },
   },
   plugins: [],
 }
